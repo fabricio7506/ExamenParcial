@@ -1,0 +1,2 @@
+Para ingresar se debe abrir el proyecto en el android studio y ejecutarlo y al momento de que todo cargue mostrara en la primera pantalla indicaciones de lo que trata el juego y sus reglas
+En el caso que suceda que no se pueda ejecutar el programa: Debe cambiar local properties y asegurarse entrar al proyecto gradle scripts local properties y cambiar la ruta que tenga usted del ask en su android studio.
